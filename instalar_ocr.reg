@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\HacerOCR]
+@="Capa OCR (Tesseract Engine)"
+"Icon"="C:\\Users\\Ken\\MiOcrPotente\\imgi_73_3d-rendering-clipboard-icon-with-document-note-work-planning-icon-conc.ico"
+"Position"="Top"
+
+[HKEY_CLASSES_ROOT\*\shell\HacerOCR\command]
+@="\"C:\\Users\\Ken\\MiOcrPotente.bat\" \"%1\""
