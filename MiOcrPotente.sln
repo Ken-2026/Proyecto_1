@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiOcrPotente", "MiOcrPotente.csproj", "{925E5C07-7E68-4D1E-90A6-E0C11C3B3C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925E5C07-7E68-4D1E-90A6-E0C11C3B3C7F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{925E5C07-7E68-4D1E-90A6-E0C11C3B3C7F}.Debug|x64.Build.0 = Debug|Any CPU
+		{925E5C07-7E68-4D1E-90A6-E0C11C3B3C7F}.Release|x64.ActiveCfg = Release|Any CPU
+		{925E5C07-7E68-4D1E-90A6-E0C11C3B3C7F}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
